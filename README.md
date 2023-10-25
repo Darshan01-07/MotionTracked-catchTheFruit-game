@@ -16,4 +16,4 @@ Catch The Food is a simple game where you have to collect the falling items, exc
 2. Unzip the file.
 3. Run the `cameraInput.py` file with the following command:
    python3 cameraInput.py
-4. Run the CatchTheFood.exe file
+4. Run the `CatchTheFood.exe` file
